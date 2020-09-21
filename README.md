@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Angular and Microservices
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with my 5-a-side team generator (cleanclubs)
-- 😄 Pronouns: he/him/his
-![Sean's github stats](https://github-readme-stats.vercel.app/api?username=seanr89&show_icons=true)
--->
+- ![Sean's github stats](https://github-readme-stats.vercel.app/api?username=seanr89&show_icons=true)
+
